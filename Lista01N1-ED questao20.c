@@ -1,8 +1,8 @@
 /*
-Função : Você informa um número (igual ou maior que zero) e ele te mostra todos os divisores de um até esse valor.
-Autor : Gabryel Yarzon - Sistemas de Informação
+FunÃ§Ã£o : VocÃª informa um nÃºmero (igual ou maior que zero) e ele te mostra todos os divisores de um atÃ© esse valor.
+Autor : naisson - Sistemas de InformaÃ§Ã£o
 Data : 19/03/2018
-Observações: 
+ObservaÃ§Ãµes: 
 */
 #include <stdio.h>
 #include <stdlib.h>
